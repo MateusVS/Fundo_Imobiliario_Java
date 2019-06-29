@@ -1,0 +1,15 @@
+
+
+
+---------------------------------------------
+
+Nome: Orlando
+CPF: 12345678900
+Nome do Banco: Bradesco
+Numero da Conta: 55
+Numero da agencia: 66
+Valor do saldo: 1000.0
+Valor do saldo do fundo imobiliario: 19966.75
+---------------------------------------------
+
+
